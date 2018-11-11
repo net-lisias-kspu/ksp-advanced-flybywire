@@ -1,5 +1,11 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2018-0927: 1.8.1 (linuxgurugamer) for KSP 1.4
+	+ Added option to allow throttle to be overridden by joystick or not
+	+ Fixed loading of settings upon entering the flight scene
+	+ Fixed saving of:
+		- m_MaxMoveSpeedAlways
+		- m_UseOnPreInsteadOfOnFlyByWire
 * 2018-0601: 1.8.0.5 (linuxgurugamer) for KSP 1.4
 	+ Centered Mod Settings button
 	+ Fixed RadialIn/RadialOut buttons (are reversed)
