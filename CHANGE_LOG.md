@@ -1,5 +1,14 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2018-0531: 1.8.0.3 (linuxgurugamer) for KSP 1.4
+	+ Updated the SDLs library
+	+ Updated the SDL2 file
+		- Note:  The SDL update should fix the issues with the non-us keyboards
+	+ Added code to dynamically get the vectorField and floatField offsets
+	+ Rewrote all event code for EVA events to use new methods of calling
+	+ Repositioned the GUI.DragWindow() calls to allow full windows to be draggable
+	+ Added a DragWindow to the Choose Action windows, and fixed the call to properly save the location
+	+ Added OSX build
 * 2018-0528: 1.8.0.2 (linuxgurugamer) for KSP 1.4
 	+ Updated name in .version file
 	+ Updated Jenkins file for Linux build
