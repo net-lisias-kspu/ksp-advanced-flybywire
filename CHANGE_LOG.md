@@ -1,5 +1,8 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2016-0422: 1.7-beta (nlight) for KSP 1.1
+	+ Updated for KSP 1.1
+	+ (Beta release! Please report any issues.)
 * 2016-0422: 1.7a-beta (nlight) for KSP 1.1
 	+ Updated for KSP 1.1
 	+ (Beta release! Please report any issues.)
