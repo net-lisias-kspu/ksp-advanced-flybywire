@@ -1,5 +1,8 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2016-0422: 1.7a-beta (nlight) for KSP 1.1
+	+ Updated for KSP 1.1
+	+ (Beta release! Please report any issues.)
 * 2016-0220: 1.6.2 (nlight) for KSP 1.0.5
 	+ Fixed bad wheel throttle inputs causing unintended rover acceleration
 		- Updated for KSP 1.0.5
