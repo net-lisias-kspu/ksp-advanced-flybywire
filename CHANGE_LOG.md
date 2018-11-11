@@ -1,5 +1,9 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2018-0528: 1.8.0.2 (linuxgurugamer) for KSP 1.4
+	+ Updated name in .version file
+	+ Updated Jenkins file for Linux build
+	+ Added missing file for Linux
 * 2018-0527: 1.8.0.1 (linuxgurugamer) for KSP 1.4
 	+ Rebuild for bad dll
 	+ Moved XInputDotNetPure dll into Plugins folder
