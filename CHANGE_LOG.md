@@ -1,5 +1,9 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2018-0601: 1.8.0.5 (linuxgurugamer) for KSP 1.4
+	+ Centered Mod Settings button
+	+ Fixed RadialIn/RadialOut buttons (are reversed)
+	+ Fixed Pitch Trim +/- to adjust trim by .1 per click
 * 2018-0601: 1.8.0.4 (linuxgurugamer) for KSP 1.4
 	+ Fixed builds
 	+ Added option to run at max speed always when autorun is enabled
