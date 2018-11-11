@@ -1,5 +1,14 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2018-0526: 1.8.0 (linuxgurugamer) for KSP 1.4
+	+ Adopted by LGG
+	+ Updated for 1.4
+	+ Added support for the ToolbarController
+	+ Added support for the ClickthroughBlocker
+	+ Removed option for Bizzy toobar, now handled by the Toolbarcontroller
+	+ Added transparancy to large button
+	+ Changed method of serializing settings
+	+ Reorganized release directory
 * 2016-0422: 1.7-beta (nlight) for KSP 1.1
 	+ Updated for KSP 1.1
 	+ (Beta release! Please report any issues.)
