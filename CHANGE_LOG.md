@@ -1,5 +1,12 @@
 KSP Advanced Fly-By-Wire :: Change Log
 
+* 2018-0601: 1.8.0.4 (linuxgurugamer) for KSP 1.4
+	+ Fixed builds
+	+ Added option to run at max speed always when autorun is enabled
+	+ Now closes the config window after saving
+	+ Tweaked size of some buttons
+	+ Some minor optimizations
+	+ Now allows deleting 1st preset in list, if more than one exists
 * 2018-0531: 1.8.0.3 (linuxgurugamer) for KSP 1.4
 	+ Updated the SDLs library
 	+ Updated the SDL2 file
